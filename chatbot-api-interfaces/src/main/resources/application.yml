@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+chatbot-api:
+    groupId: 4888418422****
+    cookie: ""
+    openAiKey: ""
+    cronExpression: 0/30 * * * * ? # reference：cron.qqe2.com
+    silenced: false
+    #launchList: group01,group02...
+    #group01:
+    #groupName: New Republic
